@@ -64,5 +64,11 @@
 	<github>sunder86 </github>
 	<group> KrZZIs3011Io </group>
     </student>
-
+    <student>
+	<firstname> Rafal </firstname>
+	<lastname> Kolasinski </lastname>
+	<email> rafal.kolasinski92@gmail.com </email>
+	<github> rafalkolasinski </github>
+	<group> KrDZIs3012Io </group>
+    </student>
 </students>
